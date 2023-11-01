@@ -260,7 +260,7 @@ new_prediction
 
 The log-transformation model is better- the predicted values are considerably closer to the actual values.
 
-# Challenges: Homework #3
+# Challenges: Homework #4
 
 * Writing the R function was BRUTAL. I had to keep referencing Modules 10 & 11 and online documentation. I did not get the chance to input values and test this function- I will do that for the Final Homework Assignment.
 * I struggled knitting my Rmd file because of step #7 (i.e., creating a data frame from the combined values of the variables: ci, l, b, and pi). I forgot to add the command: head(df) to my chunk, which displayed only the first few rows of my data frame.
